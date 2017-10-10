@@ -8,6 +8,6 @@ public class App
 {
     public njstatic void main( String[] args )
     {
-        System.out.println( "changed!" );
+        System.out.println( "canged!" );
     }
 }
